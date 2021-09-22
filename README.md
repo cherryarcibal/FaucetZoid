@@ -10,6 +10,6 @@ $ pkg install git
 $ git clone https://github.com/AwX-Ploit/FaucetZoid
 $ cd FaucetZoid
 $ ls
-$ php fz.php
+$ php bot.php
 
 # For Information Can Visit My YouTube Channel
